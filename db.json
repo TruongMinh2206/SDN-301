@@ -1,0 +1,32 @@
+{
+    "students" : [
+        {
+            "id":1,
+            "name":"Hop",
+            "age":21,
+            "class_id":1
+        },
+        {
+            "id":2,
+            "name":"Hopp",
+            "age":21,
+            "class_id":1
+        },
+        {
+            "id":3,
+            "name":"Hoop",
+            "age":21,
+            "class_id":2
+        }
+    ],
+    "classes": [
+        {
+            "id":1,
+            "name":"SE1634"
+        },
+        {
+            "id":2,
+            "name":"SE1635"
+        }
+    ]
+}
